@@ -1,5 +1,6 @@
 # android-password-manager
 A simple password managing app for Android
+
 Demonstration:
 <img src="https://github.com/davozebi/android-password-manager/raw/main/demo/000.png" alt="000.png" width=75% height=75% />
 <img src="https://github.com/davozebi/android-password-manager/raw/main/demo/001.png" alt="001.png" width=75% height=75% />
