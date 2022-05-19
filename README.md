@@ -32,4 +32,3 @@ Demonstration:
 <img src="https://github.com/davozebi/android-password-manager/raw/main/demo/026.png" alt="026.png" width=100% height=100% />
 <img src="https://github.com/davozebi/android-password-manager/raw/main/demo/027.png" alt="027.png" width=100% height=100% />
 <img src="https://github.com/davozebi/android-password-manager/raw/main/demo/028.png" alt="028.png" width=100% height=100% />
-<img src="https://github.com/davozebi/android-password-manager/raw/main/demo/029.png" alt="029.png" width=100% height=100% />
