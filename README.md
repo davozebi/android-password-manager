@@ -30,4 +30,3 @@ A simple password managing app for Android
 <img src="https://github.com/davozebi/android-password-manager/raw/main/demo-images/026.png" alt="026.png" width=75% height=75% />
 <img src="https://github.com/davozebi/android-password-manager/raw/main/demo-images/027.png" alt="027.png" width=75% height=75% />
 <img src="https://github.com/davozebi/android-password-manager/raw/main/demo-images/028.png" alt="028.png" width=75% height=75% />
-<img src="https://github.com/davozebi/android-password-manager/raw/main/demo-images/029.png" alt="029.png" width=75% height=75% />
